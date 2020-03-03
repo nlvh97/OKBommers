@@ -5,16 +5,26 @@ x = 9
 y = 3
 
 # Code here
+<<<<<<< HEAD
 
 x = 5
 
 print(x + y)
+=======
+x = 5
+print (x+y)
+
+>>>>>>> 91d41e93aae392ee6ad649c0282e09aa5d44756c
 
 
 
 ############ 
 # Q2. Change the value of x by the remainder of x divided by 3
+<<<<<<< HEAD
 # Print the sum of the new value oAAf x and y
+=======
+# Print the sum of the new value of x and y
+>>>>>>> 91d41e93aae392ee6ad649c0282e09aa5d44756c
 ############
 # Topic: arithmetic/assignment operators
 
@@ -22,6 +32,11 @@ x = 5
 y = 2
 
 # Code here
+<<<<<<< HEAD
+=======
+x= x % 3
+print(x+y)
+>>>>>>> 91d41e93aae392ee6ad649c0282e09aa5d44756c
 
 
 
@@ -39,6 +54,10 @@ x = 9
 y = 3
 
 # Code here
+<<<<<<< HEAD
+=======
+print(x/y+y*x)
+>>>>>>> 91d41e93aae392ee6ad649c0282e09aa5d44756c
 
 
 
@@ -56,6 +75,12 @@ x = 8
 y = 3
 
 # Code here
+<<<<<<< HEAD
+=======
+z= x % y
+print(z)
+print(x/(z*x))
+>>>>>>> 91d41e93aae392ee6ad649c0282e09aa5d44756c
 
 
 
