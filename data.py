@@ -129,7 +129,7 @@ x = 3
 string = "5"
 
 # Code here
-
+print (numbers [0]+ numbers[2])
 
 
 ############# Q9. Print the sum of the first and third element in the list "numbers" and print the result ############
@@ -138,7 +138,11 @@ string = "5"
 numbers = (3, 9, 16, 36)
 
 # Code here
+numbers.append(36)
+numbers.append(49)
+numbers.append(64)
 
+print(numbers)
 
 
 
